@@ -90,6 +90,17 @@
     - Test offline functionality
     - Verify Firebase error handling
 
-    Follow the official Ionic/Angular and Firebase/Firestore guides for best practices.
+    Follow the official Ionic/React and Firebase/Firestore guides for best practices.
 
-    
+    #Paystack
+    - Use the official Paystack SDK for React Native.
+    #resendemail
+    - Use the official Resend Email SDK for React Native.
+    #twilio
+    - Use the official Twilio SDK for React Native.
+    #razorpay
+    - Use the official Razorpay SDK for React Native.
+    #flutterwave
+    - Use the official Flutterwave SDK for React Native.
+    #flutterwave
+    - Use the official Flutterwave SDK for React Native.
