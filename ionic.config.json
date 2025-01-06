@@ -1,0 +1,7 @@
+{
+  "name": "okiapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
